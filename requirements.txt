@@ -1,0 +1,6 @@
+anthropic
+flask
+openpyxl
+python-dotenv
+requests
+gunicorn
